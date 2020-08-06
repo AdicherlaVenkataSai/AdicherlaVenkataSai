@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[💬](https://wa.me/+918008527755) | [📫](adicherlavenkatasai5@gmail.com) | [💌](https://www.linkedin.com/in/adicherlavenkatasai) | [:octocat:](https://github.com/AdicherlaVenkataSai) | [📄](https://drive.google.com/file/d/1oZnQi4Wmgp8M2k-EpUDryFBEuR5i8g9q/view?usp=sharing)
+[💬](https://wa.me/+918008527755) | [📫](https://www.linkedin.com/in/adicherlavenkatasai) | [:octocat:](https://github.com/AdicherlaVenkataSai) | [📄](https://drive.google.com/file/d/1oZnQi4Wmgp8M2k-EpUDryFBEuR5i8g9q/view?usp=sharing)
 
 ![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=AdicherlaVenkataSai&show_icons=true)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdicherlaVenkataSai&layout=compact)](https://github.com/AdicherlaVenkataSai/github-readme-stats)

@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 Actively looking for Oppurtunites    
+🌱 Exploring the Ai   
+👯 I would like to collaborate on, projects based on Image and Video Pocessing (Computer Vision)      
+📫 How to reach me: [Whatsapp](https://wa.me/+918008527755) ||  [LinkedIn](https://www.linkedin.com/in/adicherlavenkatasai)

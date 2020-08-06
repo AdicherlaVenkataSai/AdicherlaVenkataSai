@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Adicherla VenkataSai here
 
 <!--
 **AdicherlaVenkataSai/AdicherlaVenkataSai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Actively looking for Oppurtunites    
-🌱 Exploring the Ai   
-👯 I would like to collaborate on, projects based on Image and Video Pocessing (Computer Vision)      
-📫 How to reach me: [Whatsapp](https://wa.me/+918008527755) ||  [LinkedIn](https://www.linkedin.com/in/adicherlavenkatasai)
+
+[💬](https://wa.me/+918008527755) | [📫](adicherlavenkatasai5@gmail.com) | [💌](https://www.linkedin.com/in/adicherlavenkatasai) | [:octocat:](https://github.com/AdicherlaVenkataSai) | [📄](https://drive.google.com/file/d/1oZnQi4Wmgp8M2k-EpUDryFBEuR5i8g9q/view?usp=sharing)
+
+![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=AdicherlaVenkataSai&show_icons=true)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdicherlaVenkataSai&layout=compact)](https://github.com/AdicherlaVenkataSai/github-readme-stats)
+
+<!---[![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=AdicherlaVenkataSai)](https://github.com/AdicherlaVenkataSai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdicherlaVenkataSai)](https://github.com/AdicherlaVenkataSai/github-readme-stats)

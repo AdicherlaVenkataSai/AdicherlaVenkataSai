@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently looking for **ai**/**ml**/**dl** (**Computer Vision**) internship/ part time oppurtunities !!!    
+Note: Willing to work on open-source projects of Computer Vision 
+**Contact:** [💬](https://wa.me/+918008527755) [📫](https://www.linkedin.com/in/adicherlavenkatasai)   
+**Work:** [:octocat:](https://github.com/AdicherlaVenkataSai)    
+**Resume:** [📄](https://drive.google.com/file/d/1oZnQi4Wmgp8M2k-EpUDryFBEuR5i8g9q/view?usp=sharing)   
 
-[💬](https://wa.me/+918008527755) | [📫](https://www.linkedin.com/in/adicherlavenkatasai) | [:octocat:](https://github.com/AdicherlaVenkataSai) | [📄](https://drive.google.com/file/d/1oZnQi4Wmgp8M2k-EpUDryFBEuR5i8g9q/view?usp=sharing)
 
 ![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=AdicherlaVenkataSai&show_icons=true)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdicherlaVenkataSai&layout=compact)](https://github.com/AdicherlaVenkataSai/github-readme-stats)

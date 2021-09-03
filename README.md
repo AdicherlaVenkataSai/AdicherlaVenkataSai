@@ -3,7 +3,9 @@
  </b></p>
  <p align="center"><b>Seeking Machine(Deep) Learning Intern roles!!</b></p>
  
+<!--
 [![Whatsapp: venkatasaiadicherla](https://img.shields.io/badge/-venkatasaiadicherla-%2325D366.svg?&flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+918008527755)](https://wa.me/+918008527755)
+ -->
 [![Linkedin: venkatasaiadicherla](https://img.shields.io/badge/-venkatasaiadicherla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adicherlavenkatasai/)](https://www.linkedin.com/in/adicherlavenkatasai/)
 ![GitHub followers](https://img.shields.io/github/followers/adicherlavenkatasai?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/AdicherlaVenkataSai) 
 [![Years Badge](https://badges.pufler.dev/years/AdicherlaVenkataSai)](https://badges.pufler.dev/years/AdicherlaVenkataSai)
